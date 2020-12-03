@@ -1,3 +1,5 @@
+# this version is the basic version (v 0.1) 
+"""this version may or may not work with all System, If it happens try the advanced one (v .2)"""
 # replace wlp2s0 with preferred network adapter (example: replace wlp2s0 with enp3s0)
 import os
 from random import randint
