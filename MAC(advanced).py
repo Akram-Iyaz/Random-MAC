@@ -1,4 +1,5 @@
-# replace wlp2s0 with preferred network adapter (example: replace wlp2s0 with enp3s0)
+# Version (0.2) Advanced Version
+""" Works with all systems """
 import os
 from random import randint
 print("Type 'z' to check your network interface")
