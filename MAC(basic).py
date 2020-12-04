@@ -13,3 +13,4 @@ ee="sudo ifconfig wlp2s0 up" #ENABLES WLP2S0
 os.system(de)
 os.system(ce)
 os.system(ee)
+print(f"MAC changed to {e}")
